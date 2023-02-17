@@ -19,7 +19,7 @@ The page will reload if you make changes.
 [https://breezest-anands.netlify.app](https://breezest-anands.netlify.app)
 
 ### Snapshot of the Project:
-![glimpse](https://user-images.githubusercontent.com/76837650/219555288-7d7cc847-a0d9-457f-8100-c764b31dc21a.png)
+![glimpse](https://user-images.githubusercontent.com/76837650/219557946-66b50dca-fdc1-4003-b12e-ccd0a9c164c8.png)
 <br />
 <br />
-![glimpse2](https://user-images.githubusercontent.com/76837650/219556008-2ceaf2c3-ed3d-4125-a4ac-5b22f5cf7bfa.png)
+![glimpse2](https://user-images.githubusercontent.com/76837650/219558060-ec8bf2b6-17b4-4c16-a43a-34952af62cb6.png)
