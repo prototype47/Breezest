@@ -11,7 +11,7 @@ import getFormattedWeatherData from './services/weathService';
 
 function App() {
 
-  const [ query, setQuery ] = useState({q: "berlin"});
+  const [ query, setQuery ] = useState({q: "tempe"});
   const [ units, setUnits ] = useState("metric");
   const [ weather, setWeatherData ] = useState(null);
 
