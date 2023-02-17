@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Breezest/static/css/main.c535db31.css",
+    "main.js": "/Breezest/static/js/main.8c76a59a.js",
+    "index.html": "/Breezest/index.html",
+    "main.c535db31.css.map": "/Breezest/static/css/main.c535db31.css.map",
+    "main.8c76a59a.js.map": "/Breezest/static/js/main.8c76a59a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c535db31.css",
+    "static/js/main.8c76a59a.js"
+  ]
+}
