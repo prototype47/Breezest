@@ -4,7 +4,7 @@
 A comprehensive weather application that allows user to search for a city and diplay the current weather conditions and a 5-day forecast.
 The data is fetched using the `OpenWeatherMap API`. The application has a dynamic background which changes from `Cool -> Warm` based on temperature of that place alongwith visibility depictions which change dynamically with the weather conditions.\
 The application also has a beautiful dynamic toast message which notifies the user that an action is taking place in background upon their clicks.\
-The user can also view wind speed, humidity, real feel, sunrise and sunset time of the place and can also switch between temperature units - °C or °F.\
+The user can also view wind speed, humidity, real feel, sunrise and sunset time of the place and can also switch between temperature units - `°C` or `°F`.\
 The user is also provided with the ability to view weather of their current location alongwith a `quick access` of cities at the top.
 
 ### Steps to get working with the repository 
