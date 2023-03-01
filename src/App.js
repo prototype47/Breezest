@@ -7,7 +7,7 @@ import TempDetails from './components/TempDetails';
 import Forecast from './components/Forecast';
 import { ToastContainer, toast, Slide, Bounce } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-import getFormattedWeatherData from './services/weathService';
+import getFormattedWeatherData from './services/weatherService';
 
 function App() {
 
@@ -46,8 +46,8 @@ function App() {
           <TimeAndLocation weather={weather}/>
           <TempDetails weather={weather}/>
           
-          <Forecast title="hourly forecast" />
-          <Forecast title="Daily forecast" />
+          <Forecast title="hourly forecast" items={weather.hourly} />
+          <Forecast title="Daily forecast" items={weather.daily} />
         </div>
       )}
 

@@ -1,6 +1,6 @@
 import React from 'react';
 import { UilArrowUp, UilArrowDown, UilTemperatureThreeQuarter, UilTear, UilWind, UilBrightness, UilSunset } from '@iconscout/react-unicons'
-import { formatToLocalTime, iconUrl } from '../services/weathService';
+import { formatToLocalTime, iconUrl } from '../services/weatherService';
 
 function TempDetails({ weather: { details, icon, temp, feels_like, humidity, speed, sunrise, sunset, temp_max, temp_min, timezone }}) {
     return (
