@@ -5,7 +5,7 @@ import Inputs from './components/Inputs';
 import TimeAndLocation from './components/TimeAndLocation';
 import TempDetails from './components/TempDetails';
 import Forecast from './components/Forecast';
-import { ToastContainer, toast, Slide, Bounce } from 'react-toastify';
+import { ToastContainer, toast, Bounce } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import getFormattedWeatherData from './services/weatherService';
 
