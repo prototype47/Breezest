@@ -1,4 +1,4 @@
-# Breezest
+# Breezest - v2.0.1
 
 ## About:
 A comprehensive weather application that allows user to search for a city and display the current weather conditions and a 5-day hourly and daily forecast.
