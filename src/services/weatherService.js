@@ -1,6 +1,8 @@
 import { DateTime } from 'luxon';
+import WAK from './apikey.js';
 
-const API_KEY = process.env.REACT_APP_API_KEY;
+const API_KEY = WAK;
+// const API_KEY = process.env.REACT_APP_API_KEY;
 // const API_KEY = YOUR_API_KEY;     
 const BASE_URL = "https://api.openweathermap.org/data/2.5";
 
